@@ -3,7 +3,7 @@ templateKey: blog-post
 title: This is my best post ever
 date: 2019-07-30T23:36:24.425Z
 description: The thing everyone does when they are crazy!
-featuredpost: true
+featuredpost: false
 featuredimage: /img/screenshot-2019-07-29-22.33.31.png
 tags:
   - hiking
